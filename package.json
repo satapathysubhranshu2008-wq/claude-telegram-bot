@@ -1,0 +1,11 @@
+{
+  "name": "claude-telegram-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx @a5c-ai/claude-code-telegram-bot"
+  },
+  "dependencies": {
+    "@a5c-ai/claude-code-telegram-bot": "latest"
+  }
+}
